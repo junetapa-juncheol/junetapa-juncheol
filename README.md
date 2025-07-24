@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="AI Research" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 🔭 현재 **나만의 GPT 자동화** 연구중 (GPT2.0 오픈소스 활용)
 - 🌱 **JavaScript, HTML, CSS** 학습 중
