@@ -10,8 +10,10 @@
 
 <img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
+- 💼 **본업:** 영업, 기획, 기술지원 전문가
 - 🔭 현재 **나만의 GPT 자동화** 연구중 (GPT2.0 오픈소스 활용)
-- 🌱 **JavaScript, HTML, CSS** 학습 중
+- 💻 **개발은 취미!** JavaScript, HTML, CSS 학습 중
+- 🧠 **새로운 것에 항상 관심이 많은** 호기심 많은 어른
 - 💬 **웹 개발, AI 자동화, 프로그래밍**에 대해 이야기해요
 - 📫 연락처: **jun22sky@nate.com**
 - ⚡ 재미있는 사실: **코딩하면서 커피를 하루에 5잔 마셔요** ☕
