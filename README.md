@@ -15,11 +15,24 @@
 - 💻 **개발은 취미!** JavaScript, HTML, CSS 학습 중
 - 🧠 **새로운 것에 항상 관심이 많은** 호기심 많은 어른
 - 💬 **웹 개발, AI 자동화, 프로그래밍**에 대해 이야기해요
-- 📫 연락처: **jun22sky@nate.com**
+- 📫 연락처: **GitHub Issues나 Discussions 활용해주세요!**
 - ⚡ 재미있는 사실: **코딩하면서 커피를 하루에 5잔 마셔요** ☕
 - 🤖 **AI와 자동화로 더 나은 세상을 만들고 싶어요!**
 
 <br clear="both"/>
+
+## 🤖 현재 진행 중인 프로젝트
+
+<div align="center">
+
+### 🧠 GPT 자동화 연구
+> **GPT2.0 오픈소스를 활용한 나만의 AI 자동화 시스템 개발**
+> 
+> 💡 **목표:** 일상 업무를 자동화하는 스마트 AI 어시스턴트 구축
+
+[![Chatbot Project](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=chatbot-project-junetapa&theme=radical)](https://github.com/junetapa-juncheol/chatbot-project-junetapa)
+
+</div>
 
 ## 🛠️ Languages and Tools
 
@@ -31,38 +44,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junetapa-juncheol&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junetapa-juncheol&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junetapa-juncheol&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=junetapa-juncheol&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 🤖 현재 진행 중인 프로젝트
-
-<div align="center">
-
-### 🧠 GPT 자동화 연구
-> **GPT2.0 오픈소스를 활용한 나만의 AI 자동화 시스템 개발**
-> 
-> 💡 **목표:** 일상 업무를 자동화하는 스마트 AI 어시스턴트 구축
-
-[![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=QR-Code-Generator&theme=radical)](https://github.com/junetapa-juncheol/QR-Code-Generator)
 
 </div>
 
@@ -79,14 +60,35 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junetapa-juncheol&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junetapa-juncheol&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junetapa-juncheol&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=junetapa-juncheol&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
 ## 📈 Activity Graph
+
 <div align="center">
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junetapa-juncheol&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 💭 AI & 개발 명언
+## 💭 개발 철학
 
 <div align="center">
   
@@ -113,7 +115,7 @@
 - 💡 **창의적인 아이디어로 나만의 프로그램 개발**
 - 🌐 **개인 포트폴리오 웹사이트 제작**
 - 📱 **실용적인 웹 애플리케이션 3개 완성**
-- 🍺 **개발하면서 맥주 한 잔의 여유 즐기기** (커피도 좋지만 술이 더 좋아요! 🍻)
+- ☕ **개발하면서 커피 한 잔의 여유 즐기기** (하루 5잔은 기본!)
 
 ---
 
