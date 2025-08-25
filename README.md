@@ -11,28 +11,37 @@
 <img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 💼 **본업:** 영업, 기획, 기술지원 전문가
-- 🔭 현재 **나만의 GPT 자동화** 연구중 (GPT2.0 오픈소스 활용)
-- 💻 **개발은 취미!** JavaScript, HTML, CSS 학습 중
-- 🧠 **새로운 것에 항상 관심이 많은** 호기심 많은 어른
-- 💬 **웹 개발, AI 자동화, 프로그래밍**에 대해 이야기해요
+- 🔭 현재 **나만의 GPT 자동화** 연구중 (GPT2.0 오픈소스 활용중)
+- 💻 **자격 개발**: JavaScript, HTML, CSS 학습중
+- 🧠 **새로운 것에 대한 관심**: 호기심 많은 어른
+- 💬 **웹사이트 자동화, AI 자동화, 프로젝트 관리**: 에 대해 이야기해요
 - 📫 연락처: **GitHub Issues나 Discussions 활용해주세요!**
-- ⚡ 재미있는 사실: **코딩하면서 커피를 하루에 5잔 마셔요** ☕
-- 🤖 **AI와 자동화로 더 나은 세상을 만들고 싶어요!**
+- ⚡ 재미있는 사실: **코딩하면서 커피 한 잔의 여유까지 5잔은 기본이에요** ☕
+- 🤖 **AI와 자동화로 더 나은 세상을 만들어가고 싶습니다!**
 
 <br clear="both"/>
 
-## 🤖 현재 진행 중인 프로젝트
+## 🔥 최신 프로젝트 하이라이트
 
-<div align="center">
+### 🚦 DevFlow-AI
+> **AI 기반 개발자 도우미 시스템**
+> 
+> 🏗 **Features:**
+> - ⚡ 자동화된 코드 분석
+> - ✅ 커밋 메시지 자동 생성  
+> - 🚀 API 통합 아키텍처
+> - 🎯 React + Node.js 퐀스택
+> - 🔧 Docker 컨테이너화
+>
+
+[![Project Showcase](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=DevFlow-AI&theme=radical)](https://github.com/junetapa-juncheol/DevFlow-AI)
 
 ### 🧠 GPT 자동화 연구
-> **GPT2.0 오픈소스를 활용한 나만의 AI 자동화 시스템 개발**
+> **GPT2.0 오픈소스를 활용한 AI 자동화 시스템 개발**
 > 
-> 💡 **목표:** 일상 업무를 자동화하는 스마트 AI 어시스턴트 구축
+> 💡 **목표:** 일상의 업무를 패턴화해서 자동화시키는 스마트한 AI 어시스턴트 개발
 
 [![Chatbot Project](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=chatbot-project-junetapa&theme=radical)](https://github.com/junetapa-juncheol/chatbot-project-junetapa)
-
-</div>
 
 ## 🛠️ Languages and Tools
 
@@ -42,18 +51,22 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## ☕ 코딩 & 커피 스탯
+## ☕ 일상 & 커피 스탯
+
+🎯 커피가 핵심 연료인 개발자의 일상입니다!
 
 <div align="center">
 
 ```text
-☕ 오늘의 커피 카운트: ██████░░░░ 6/10 잔
-💻 코딩 시간: ████████░░ 8시간
+☕ 오늘의 커피 소비량: ████████░░ 8/10 잔
+💻 코듩 시간: ████████░░ 8시간
 🤖 AI 학습: ███████░░░ 7/10 레벨
 🚀 프로젝트 진행률: ████████░░ 80%
 ```
@@ -92,9 +105,9 @@
 
 <div align="center">
   
-> *"AI는 인간을 대체하는 것이 아니라, 인간의 능력을 확장시키는 도구다"*
+> *"AI와 인간을 대신하는 것이 아니라, 인간의 능력을 확장시키는 도구가 되어야 한다"*
 > 
-> *"코드 한 줄, 커피 한 모금이 세상을 바꾼다"* ☕
+> *"코딩 한 줄, 컴퓨팅 한 모든 갃은 세상을 바꿔가는 도구일다"* ☕
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -112,10 +125,10 @@
 ## 🎯 2025 목표
 
 - 🤖 **GPT 자동화 시스템 완성하기**
-- 💡 **창의적인 아이디어로 나만의 프로그램 개발**
-- 🌐 **개인 포트폴리오 웹사이트 제작**
-- 📱 **실용적인 웹 애플리케이션 3개 완성**
-- ☕ **개발하면서 커피 한 잔의 여유 즐기기** (하루 5잔은 기본!)
+- 💡 **변화의 아이디어로 나만의 프로그램 개발**
+- 🌐 **개인 홈페이지 포트폴리오 런칭**
+- 📱 **실무적인 앱 어플리케이션 3개 완성**
+- ☕ **개발하면서 커피 한 잔의 여유까지 기가막힌!!** (하루 5잔은 기본 😅)
 
 ---
 
