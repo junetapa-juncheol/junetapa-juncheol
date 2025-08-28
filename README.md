@@ -11,37 +11,50 @@
 <img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 💼 **본업:** 영업, 기획, 기술지원 전문가
-- 🔭 현재 **나만의 GPT 자동화** 연구중 (GPT2.0 오픈소스 활용중)
-- 💻 **자격 개발**: JavaScript, HTML, CSS 학습중
-- 🧠 **새로운 것에 대한 관심**: 호기심 많은 어른
-- 💬 **웹사이트 자동화, AI 자동화, 프로젝트 관리**: 에 대해 이야기해요
+- 🔭 **현재 집중분야**: AI 기반 개발 자동화 & 데이터 시각화
+- 💻 **기술 스택**: JavaScript, HTML, CSS, Python, React, Node.js
+- 🧠 **관심분야**: AI 자동화, 풀스택 개발, 데이터 분석
+- 💬 **전문 영역**: 웹사이트 자동화, AI 자동화, 프로젝트 관리
 - 📫 연락처: **GitHub Issues나 Discussions 활용해주세요!**
-- ⚡ 재미있는 사실: **코딩하면서 커피 한 잔의 여유까지 5잔은 기본이에요** ☕
+- ⚡ 재미있는 사실: **개발에 열정적인 만큼 건강도 챙기고 있습니다** 🌿
 - 🤖 **AI와 자동화로 더 나은 세상을 만들어가고 싶습니다!**
 
 <br clear="both"/>
 
 ## 🔥 최신 프로젝트 하이라이트
 
-### 🚦 DevFlow-AI
-> **AI 기반 개발자 도우미 시스템**
+### 🚀 DevFlow-AI-Pro
+> **전문적인 AI 기반 개발 어시스턴트**
 > 
 > 🏗 **Features:**
-> - ⚡ 자동화된 코드 분석
-> - ✅ 커밋 메시지 자동 생성  
-> - 🚀 API 통합 아키텍처
-> - 🎯 React + Node.js 풀스택
-> - 🔧 Docker 컨테이너화
->
+> - ⚡ 실시간 코드 분석 및 최적화
+> - 🔗 GitHub 통합 워크플로우
+> - ✅ 자동화된 개발 프로세스  
+> - 🎯 프로덕션 레디 아키텍처
+> - 🔧 워크플로우 최적화 도구
 
-[![Project Showcase](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=DevFlow-AI&theme=radical)](https://github.com/junetapa-juncheol/DevFlow-AI)
+[![Project Showcase](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=DevFlow-AI-Pro&theme=radical)](https://github.com/junetapa-juncheol/DevFlow-AI-Pro)
 
-### 🧠 GPT 자동화 연구
-> **GPT2.0 오픈소스를 활용한 AI 자동화 시스템 개발**
+### 📊 Korea Cancer Statistics 2020
+> **2020년 한국 암 발생 통계 분석 & 시각화**
 > 
-> 💡 **목표:** 일상의 업무를 패턴화해서 자동화시키는 스마트한 AI 어시스턴트 개발
+> 💡 **목표:** 국립암센터 공식 데이터 기반 인터랙티브 대시보드로 건강 정보 접근성 향상
+
+[![Cancer Statistics](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=junetapa-juncheol-korea-cancer-statistics-2020&theme=radical)](https://github.com/junetapa-juncheol/junetapa-juncheol-korea-cancer-statistics-2020)
+
+### 🤖 AI Chatbot Project
+> **한국어 지원 AI 챗봇 웹 애플리케이션**
+> 
+> 🌟 **특징:** 자연스러운 대화, 반응형 디자인, 다양한 기능 통합
 
 [![Chatbot Project](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=chatbot-project-junetapa&theme=radical)](https://github.com/junetapa-juncheol/chatbot-project-junetapa)
+
+### 🌐 Node.js API Framework
+> **경량화된 프로덕션 레디 API 프레임워크**
+> 
+> 🔧 **핵심 기능:** 인증, 데이터베이스 통합, 미들웨어 시스템
+
+[![API Framework](https://github-readme-stats.vercel.app/api/pin/?username=junetapa-juncheol&repo=nodejs-api-framework&theme=radical)](https://github.com/junetapa-juncheol/nodejs-api-framework)
 
 ## 🛠️ Languages and Tools
 
@@ -58,17 +71,18 @@
 
 </div>
 
-## ☕ 일상 & 커피 스탯
+## 💪 개발자의 건강한 하루
 
-🎯 커피가 핵심 연료인 개발자의 일상입니다!
+🎯 건강을 챙기면서도 열정적으로 개발하는 라이프스타일!
 
 <div align="center">
 
 ```text
-☕ 오늘의 커피 소비량: ████████░░ 8/10 잔
-💻 코듩 시간: ████████░░ 8시간
+🌱 건강 관리: ████████░░ 8/10 점
+💻 코딩 시간: ████████░░ 8시간
 🤖 AI 학습: ███████░░░ 7/10 레벨
 🚀 프로젝트 진행률: ████████░░ 80%
+🧘 워라밸: ██████░░░░ 6/10 점
 ```
 
 </div>
@@ -105,9 +119,11 @@
 
 <div align="center">
   
-> *"AI와 인간을 대신하는 것이 아니라, 인간의 능력을 확장시키는 도구가 되어야 한다"*
+> *"AI는 인간을 대체하는 것이 아니라, 인간의 능력을 확장시키는 도구가 되어야 한다"*
 > 
-> *"코딩 한 줄, 컴퓨팅 한 모든 갃은 세상을 바꿔가는 도구일다"* ☕
+> *"코드 한 줄, 한 줄이 모두 세상을 더 나은 곳으로 만들어가는 도구이다"* 🌟
+> 
+> *"건강한 몸과 마음이 최고의 개발 환경이다"* 🌿
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -124,11 +140,21 @@
 
 ## 🎯 2025 목표
 
-- 🤖 **GPT 자동화 시스템 완성하기**
-- 💡 **변화의 아이디어로 나만의 프로그램 개발**
-- 🌐 **개인 홈페이지 포트폴리오 런칭**
-- 📱 **실무적인 앱 어플리케이션 3개 완성**
-- ☕ **개발하면서 커피 한 잔의 여유까지 기가막힌!!** (하루 5잔은 기본 😅)
+- 🤖 **AI 자동화 시스템 완성 및 오픈소스 기여**
+- 💡 **혁신적인 아이디어로 실용적인 프로그램 개발**
+- 🌐 **개인 포트폴리오 사이트 런칭 및 브랜딩**
+- 📱 **사용자 중심의 실무형 애플리케이션 3개 완성**
+- 🌱 **건강한 개발자 라이프스타일 정착** (몸도 마음도 건강하게! 😊)
+- 📊 **데이터 시각화 및 분석 역량 강화**
+
+## 🌟 주목할 만한 프로젝트들
+
+### 🎯 **DevFlow-AI-Pro**: 전문적인 개발 자동화 도구
+### 📊 **Cancer Statistics**: 공익적 데이터 시각화 프로젝트  
+### 🤖 **AI Chatbot**: 한국어 지원 지능형 챗봇
+### 🌐 **Personal Website**: 반응형 포트폴리오 사이트
+### ☕ **Coffee Beans**: 커피 정보 가이드 (건강상 현재 휴식 중 😅)
+### 🔧 **Node.js Framework**: 백엔드 개발 프레임워크
 
 ---
 
@@ -136,10 +162,10 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-**⭐️ AI와 함께하는 코딩 여정에 동참해주세요!**
+**⭐️ AI와 함께하는 건강한 코딩 여정에 동참해주세요!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=junetapa-juncheol&color=brightgreen)
 
-*"Every line of code is a step towards the future 🚀"*
+*"Every line of code is a step towards a better tomorrow 🚀"*
 
 </div>
