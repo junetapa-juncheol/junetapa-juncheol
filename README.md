@@ -29,4 +29,7 @@ Hands-on notes and example code for AI tools — Claude Code, ComfyUI, local LLM
 
 | 글 | 코드 |
 |---|---|
+| 내 PC 안에서만 문서 요약하기 (Ollama) | [local-ai/private-summary](https://github.com/junetapa-juncheol/junetapa-tech-examples/tree/main/local-ai/private-summary) |
+| 이어 붙인 셸 명령 막는 Claude Code 훅 | [claude-code/hooks/block-chained-commands](https://github.com/junetapa-juncheol/junetapa-tech-examples/tree/main/claude-code/hooks/block-chained-commands) |
+| 음원 폴더 라우드니스 검사 (LUFS · True Peak) | [audio/loudness-check](https://github.com/junetapa-juncheol/junetapa-tech-examples/tree/main/audio/loudness-check) |
 | [ComfyUI 워크플로 불러오기 — PNG 한 장에 노드가 되살아나는 이유](https://junetapa.com/blog/dev/posts/ai-tools/comfyui-load-workflow-from-png.html) | [comfyui/png-workflow-metadata](https://github.com/junetapa-juncheol/junetapa-tech-examples/tree/main/comfyui/png-workflow-metadata) |
