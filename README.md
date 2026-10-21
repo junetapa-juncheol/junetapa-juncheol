@@ -6,6 +6,7 @@ Hands-on notes and example code for AI tools — Claude Code, ComfyUI, local LLM
 - 블로그: https://junetapa.com
 - 프로필: https://junetapa.info
 - 예제 모음: [junetapa-tech-examples](https://github.com/junetapa-juncheol/junetapa-tech-examples) — 블로그 글마다 바로 돌려 볼 수 있는 코드
+- 개인정보 검사기: [pii-guard-ko](https://github.com/junetapa-juncheol/pii-guard-ko) — 공개 전에 한국 개인정보·API 키가 섞였는지 찾아 줌
 
 ## 써 본 것
 
